@@ -30,6 +30,16 @@
     padding-top: -040px;
 
 }
+.headin{
+  padding-left: 50px;
+}
+
+}
+@media(max-width:990px) and (min-width:750px){
+    
+  #headin{
+    font-size: 20px;
+  }
 }
 .tools{
     padding-top: 30px;
@@ -39,10 +49,10 @@
 
 }
 .colo{
-    animation: color-change 3s infinite;
+    animation: color-change 1s infinite;
 }
 @keyframes color-change {
-    0% { color:#5bdb94 ; }
+    
     50% { color: antiquewhite; }
     100% { color:#5bdb94; }
   }

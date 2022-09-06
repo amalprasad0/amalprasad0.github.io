@@ -26,7 +26,7 @@ function NavBar() {
             <Nav.Link href="#projects" className='navlinks text-light animate__animated animate__slideInDown'>02.Projects🌏</Nav.Link>
             <Nav.Link href="#Contact" className='navlinks text-light animate__animated animate__slideInDown'>03.Contact me📩</Nav.Link>
             <Nav.Link href="https://github.com/Liquid-Loop" className='navlinks text-light animate__animated animate__slideInDown'>04.Open-source community👾</Nav.Link>
-            <Nav.Link href="https://dev.to/amalprasad" className='navlinks text-light animate__animated animate__slideInDown'>05.Dev.to📝</Nav.Link>
+            <Nav.Link href="https://dev.to/amalprasad0" className='navlinks text-light animate__animated animate__slideInDown'>05.Dev.to📝</Nav.Link>
 
           </Nav>
         </Navbar.Collapse>

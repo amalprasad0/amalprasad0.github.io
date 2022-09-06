@@ -25,7 +25,7 @@ function Section() {
                                     <p>REST-API</p>
                                 </div>
                                 <div className='d-flex justify-content-end share' style={{alignItems: 'end',width: '100%',marginTop: '-43px'}}>
-                                    <a href="https://github.com"><FontAwesomeIcon icon={faUpRightFromSquare} href="www.github.com" /></a>
+                                    <a href="https://github.com/amalprasad0/netflix-clone"><FontAwesomeIcon icon={faUpRightFromSquare} href="www.github.com" /></a>
                                 </div>
                               </div>
                               {/* card2 */}
@@ -39,7 +39,7 @@ function Section() {
                                     <p>TWILIO-API</p>
                                 </div>
                                 <div className='d-flex justify-content-end share' style={{alignItems: 'end',width: '100%',marginTop: '-43px'}}>
-                                    <a href="https://github.com"><FontAwesomeIcon icon={faUpRightFromSquare} href="www.github.com" /></a>
+                                    <a href="https://github.com/amalprasad0/Liquid-Loop-Security-Software"><FontAwesomeIcon icon={faUpRightFromSquare} href="www.github.com" /></a>
                                 </div>
                               </div>
                               {/* card3 */}
@@ -51,7 +51,7 @@ function Section() {
                                     <p>PHP</p>
                                     <p>BOOTSTRAP</p>
                                     <p>MYSOL</p>
-                                    <a href="https://github.com"><FontAwesomeIcon icon={faUpRightFromSquare} href="www.github.com" /></a>
+                                    <a href="https://github.com/amalprasad0/Ocean-Era-Mini-Project-"><FontAwesomeIcon icon={faUpRightFromSquare} href="www.github.com" /></a>
                                 </div>
                                
                                    
@@ -69,7 +69,7 @@ function Section() {
                                 
                                 </div>
                                 <div className='d-flex justify-content-end share' style={{alignItems: 'end',width: '100%',marginTop: '-43px'}}>
-                                    <a href="https://github.com"><FontAwesomeIcon icon={faUpRightFromSquare} href="www.github.com" /></a>
+                                    <a href="https://github.com/amalprasad0/E-commerce-Website"><FontAwesomeIcon icon={faUpRightFromSquare} href="www.github.com" /></a>
                                 </div>
                               </div>  <br />
 
