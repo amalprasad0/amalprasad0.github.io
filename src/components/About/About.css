@@ -1,0 +1,70 @@
+@media (min-width:900px){
+.abouth{
+    margin-top: 128px;
+    margin-left: 20px;
+}
+}
+.about{
+    width: 100%;
+    height: auto;
+    background-color: #212121;
+    margin: 0;
+}
+.abouth{
+    color: antiquewhite;
+
+}
+.about span{
+    color: #5bdb94;
+}
+.about p{
+    color: antiquewhite;
+    padding-top: 10px;
+    animation:  typing 3.5s steps(40, end),blink-caret .75s step-end infinite;
+}
+@media(min-width:900px){
+    .myaboutimg{
+        width:300px;
+        height:300px;
+        margin-top:130px;
+        Border-radius:20px;
+        margin-left: 60px;
+
+
+    }
+}
+@media(min-width:900px){
+    .border{
+        width:100px;
+        height:100px;
+        top:50px;
+        Border-radius:20px;
+        left:50px;
+        position: relative;
+        
+    }
+}
+
+  .name{
+        color: orange;
+        font-weight: 400;
+
+  }
+  .name:hover{
+        color: #5bdb94;
+        font-weight: 400;
+  }
+  @media(min-width:900px){
+    .about p{
+        padding-left: 63px;
+    }
+  }
+  @media(max-width:900px){
+    .about p{
+       padding-left: 36px;
+    }
+    .myaboutimg{
+        border-radius: 20px;
+        width: 17rem;
+    }
+  }

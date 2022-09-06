@@ -1,0 +1,108 @@
+
+
+.content{
+    padding-bottom: 200px;
+}
+#headin{
+  text-align-last: left;
+}
+@media(min-width:992px){
+    #headin{
+        text-align-last: left;
+        margin-top: -85px;
+        cursor: url("./img/physics.png"),pointer;
+        
+    }
+    .circle{
+        border: 5px solid white;
+        width: 200px;
+        height: 200px;
+        border-radius: 50%;
+        background-color: #1a1a1a;
+    }
+}
+
+@media(max-width:750px){
+  .tools{
+    padding-top: 30px;
+    line-height: 90px;
+    text-align: center;
+    padding-top: -040px;
+
+}
+}
+.tools{
+    padding-top: 30px;
+    line-height: 90px;
+    text-align: center;
+    padding-top: 0px;
+
+}
+.colo{
+    animation: color-change 3s infinite;
+}
+@keyframes color-change {
+    0% { color:#5bdb94 ; }
+    50% { color: antiquewhite; }
+    100% { color:#5bdb94; }
+  }
+  .emo::after{
+    animation: emoji-r 3s infinite;
+    
+  }
+  @keyframes emoji-r {
+    0% { transform: rotate(0deg); }
+    50% { transform: rotate(360deg); }
+    100% { transform: rotate(0deg); }
+  }
+  @font-face {
+    font-family: myFirstFont;
+    src: url(DESIGNER.otf);
+  }
+  hr{
+    color: aliceblue;
+    width: 100%;
+    padding-top: -70px;
+    border: 4px solid aliceblue;
+  }
+
+
+
+  @import url(https://fonts.googleapis.com/css?family=Righteous);
+
+
+@media(min-width:992px){
+    
+.headi {
+  display: inline-block;
+  color: white;
+  font-family: 'Righteous', serif;
+  font-size: 12em; 
+  text-shadow: .03em .03em 0 hsla(230,40%,50%,1);
+  }
+  .headi:after {
+    content: attr(data-shadow);
+    position: absolute;
+    top: .06em; left: .06em;
+    z-index: -1;
+    text-shadow: none;
+    background-image:
+      linear-gradient(
+        45deg,
+        transparent 45%,
+        hsla(48,20%,90%,1) 45%,
+        hsla(48,20%,90%,1) 55%,
+        transparent 0
+        );
+    background-size: .05em .05em;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  
+    animation: shad-anim 15s linear infinite;
+    }
+
+@keyframes shad-anim {
+  0% {background-position: 0 0}
+  0% {background-position: 100% -100%}
+  }
+}
