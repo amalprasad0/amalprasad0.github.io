@@ -18,7 +18,7 @@ function Section() {
                               <div className="card">
                                 
                                 <h2>Netflix UI Clone</h2>
-                                <p>Netflix UI Clone using ReactJs and having full ui fi=unctionalities</p>
+                                <p>Netflix UI Clone using ReactJs and having full ui functionalities</p>
                                 <div className="tool d-flex justify-content-start text-light pl-1" >
                                     <p>React</p>
                                     <p>JSX</p>
@@ -64,7 +64,7 @@ function Section() {
                                 <p>A Nodejs project with mongoDB database</p>
                                 <div className="tool d-flex justify-content-start text-light pl-1" >
                                     <p>NodeJs</p>
-                                    <p>MonigoDB</p>
+                                    <p>MonogoDB</p>
                                    
                                 
                                 </div>
