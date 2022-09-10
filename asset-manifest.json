@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/amal.prasad/static/css/main.d29f09a7.css",
-    "main.js": "/amal.prasad/static/js/main.5ca453fd.js",
+    "main.js": "/amal.prasad/static/js/main.74bd5e8f.js",
     "static/media/Datdot-K7prl.ttf": "/amal.prasad/static/media/Datdot-K7prl.7c3a99587331afe4bac2.ttf",
     "static/media/physics.png": "/amal.prasad/static/media/physics.86c8d9eba03e29814d2a.png",
     "static/media/DESIGNER.otf": "/amal.prasad/static/media/DESIGNER.5bce54baf24bd63167e1.otf",
     "index.html": "/amal.prasad/index.html",
     "main.d29f09a7.css.map": "/amal.prasad/static/css/main.d29f09a7.css.map",
-    "main.5ca453fd.js.map": "/amal.prasad/static/js/main.5ca453fd.js.map"
+    "main.74bd5e8f.js.map": "/amal.prasad/static/js/main.74bd5e8f.js.map"
   },
   "entrypoints": [
     "static/css/main.d29f09a7.css",
-    "static/js/main.5ca453fd.js"
+    "static/js/main.74bd5e8f.js"
   ]
 }
