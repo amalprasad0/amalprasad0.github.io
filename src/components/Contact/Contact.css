@@ -10,3 +10,19 @@
 .txt{
     max-width: 200rem;
 }
+h1{
+    
+        font-family: myFirstFont;
+    
+}
+p{
+    font-family: myFirstFont;
+}
+a{
+    font-family: myFirstFont;
+
+}
+@font-face {
+    font-family: myFirstFont;
+    src: url(../../fonts/CutiveMono-Regular.ttf);
+  }

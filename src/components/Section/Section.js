@@ -9,12 +9,13 @@ import { AnimationOnScroll } from 'react-animation-on-scroll';
 
 function Section() {
   return (
-    <div className="fluid projects" id="projects">
+    <div className="fluid projects  " id="projects">
         <Container>
-        <AnimationOnScroll animateIn="animate__slideInUp">
-            <Row className='d-flex justify-content-center animate__animated animate__slideInDown'>
+        <h1 className='text-light heading' style={{color:'antiquewhite'}}> <span>02.</span>Some Things I’ve Built🖇️</h1>
+        <AnimationOnScroll animateIn="animate__slideInUp" >
+            <Row className='d-flex justify-content-center text-center animate__animated animate__slideInDown'>
                     <Col className='joj'>
-                              <h1 className='text-light' style={{color:'antiquewhite'}}> <span>02.</span>Some Things I’ve Built🖇️</h1>
+                              
                               <div className="card">
                                 
                                 <h2>Netflix UI Clone</h2>

@@ -9,6 +9,7 @@
     height: auto;
     background-color: #212121;
     margin: 0;
+    
 }
 .abouth{
     color: antiquewhite;
@@ -21,6 +22,8 @@
     color: antiquewhite;
     padding-top: 10px;
     animation:  typing 3.5s steps(40, end),blink-caret .75s step-end infinite;
+    font-family: myFirstFont;
+
 }
 @media(min-width:900px){
     .myaboutimg{
@@ -67,4 +70,8 @@
         border-radius: 20px;
         width: 17rem;
     }
+  }
+  @font-face {
+    font-family: myFirstFont;
+    src: url(../../fonts/CutiveMono-Regular.ttf);
   }

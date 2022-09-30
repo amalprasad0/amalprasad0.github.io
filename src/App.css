@@ -1,9 +1,7 @@
 body{
     background-color: #212121;
     margin: 0;
-    font-family: myFirstFont;
-    
-    
+    /* font-family: myFirstFont; */
 }
 body::-webkit-scrollbar {
     display: none;
@@ -11,7 +9,7 @@ body::-webkit-scrollbar {
 html {
     scroll-behavior: smooth;
   }
-  @font-face {
+  /* @font-face {
     font-family: myFirstFont;
-    src: url(./fonts/Datdot-K7prl.ttf);
-  }
+    src: url(./fonts/DatdotBold-BWOJ8.ttf);
+  } */

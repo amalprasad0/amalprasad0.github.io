@@ -15,7 +15,7 @@ function About() {
        <Container>
           <Row className="d-flex justify-content-center mt-1">
               <Col lg sm={12} className="pl-5">
-                  <h2 className='abouth'><span style={{color:' #5bdb94'}}>01. </span>About---------------------</h2>
+                  <h2 className='abouth' style={{fontFamily:"dotedf"}}><span style={{color:' #5bdb94',fontFamily:"dotedf"}}>01. </span>About---------------------</h2>
                   <p className='text-justify aboutp '><span style={{color:' #5bdb94',fontSize:'25px'}}>--      </span> Hello! My name is  <strong>Amal Prasad</strong> and I enjoy creating things that live on the internet. <span> My interest in high-tech field started from 2017.  </span>I have created projects using various languages and  new technological tools.</p>
                   <p className="pb-5">Languages: <br/><br /> -> Python🐍 <br/> -> Javascript😀 <br />-> C ➰<br />-> HTML5😁</p>
                </Col>

@@ -111,3 +111,14 @@
     right: 10px;
   }
 } */
+@font-face {
+  font-family: dotedF;
+  src: url(../../fonts/Datdot-K7prl.ttf);
+}
+.navbarfont{
+  font-family: dotedf;
+}
+@font-face {
+  font-family: dotedF;
+  src: url(../../fonts/Datdot-K7prl.ttf);
+}

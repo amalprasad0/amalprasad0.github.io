@@ -22,6 +22,7 @@
     color: #5bdb94;
     float: left;
     margin-right: 30px;
+    font-family: myFirstFont;
 }
 .card:hover{
     background-color: antiquewhite;
@@ -35,7 +36,7 @@
 }
 
 .tool p{
-    margin-right: 2rem;
+    margin-right: 1rem;
 }
 .share{
     margin-top: 32px;
@@ -69,3 +70,15 @@
 .sow{
     text-decoration: none;
 }
+.heading{
+    font-family: dotedf;
+    color: antiquewhite;
+}
+@font-face {
+    font-family: myFirstFont;
+    src: url(../../fonts/CutiveMono-Regular.ttf);
+  }
+  @font-face {
+    font-family: dotedF;
+    src: url(../../fonts/Datdot-K7prl.ttf);
+  }

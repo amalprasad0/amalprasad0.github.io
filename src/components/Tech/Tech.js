@@ -14,10 +14,12 @@ function Tech() {
     <div className='tech fluid' >
     <Container>
         <Row>
-            <Col className='content text-light text-uppercase ' lg sm={6}>
-            <h1 id="headin" className='text-lg-left'><span className='colo'>M</span>Y---------<br /><span className='colo'>D</span>evelopment <br /><span className='colo'>T</span>ools😃------</h1>
+            <Col className='content  text-light text-uppercase ' lg sm={6}>
+            <h1 id="headin" className=' text-center '>MY--------Tools🪄</h1>
             </Col >
             <Col className='text-light tools'>
+            <h1 id="headin2" className=' text-center '>MY--------Tools🪄</h1>
+
             <AnimationOnScroll animateIn="animate__slideInRight">
             <h1 className='pl-0 mb-5 headi ' style={{letterSpacing:'20px',color:'#5bdb94'}}>Re<span style={{color:'antiquewhite'}}>a</span>ct</h1>
             </AnimationOnScroll>
@@ -32,7 +34,6 @@ function Tech() {
             </AnimationOnScroll>
             </Col >
             <AnimationOnScroll animateIn="animate__slideInRight" animateOut='animate__slideInLeft' delay={20}>
-            <hr />
             </AnimationOnScroll>
         </Row>
     </Container>

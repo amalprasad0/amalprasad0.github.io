@@ -5,6 +5,7 @@
 }
 #headin{
   text-align-last: left;
+  font-family: dotedf;
 }
 @media(min-width:992px){
     #headin{
@@ -36,10 +37,8 @@
 
 }
 @media(max-width:990px) and (min-width:750px){
-    
-  #headin{
-    font-size: 20px;
-  }
+  
+  
 }
 .tools{
     padding-top: 30px;
@@ -82,6 +81,9 @@
 
 
 @media(min-width:992px){
+  #headin2{
+    display:none;
+  }
     
 .headi {
   display: inline-block;
@@ -89,6 +91,7 @@
   font-family: 'Righteous', serif;
   font-size: 12em; 
   text-shadow: .03em .03em 0 hsla(230,40%,50%,1);
+
   }
   .headi:after {
     content: attr(data-shadow);
@@ -115,4 +118,26 @@
   0% {background-position: 0 0}
   0% {background-position: 100% -100%}
   }
+}
+@font-face {
+  font-family: dotedF;
+  src: url(../../fonts/Datdot-K7prl.ttf);
+}
+@media(max-width:750px){
+ 
+  #headin2{
+   display: block;
+   margin-bottom: 20px;
+}
+  #headin{
+    display: none;
+  }
+}
+@media(min-width:750px){
+ 
+  #headin2{
+   display: none;
+   margin-bottom: 20px;
+}
+  
 }
