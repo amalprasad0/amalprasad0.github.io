@@ -7,7 +7,7 @@ function NavBar() {
   return (
     <>
       <Navbar  expand="lg md" className='justify-content-between navbar fixed-top ' >
-      <Container className='navbarfont' >
+      <Container className='navbarfont text-center' >
         <Navbar.Brand href="#home" className='animate__animated animate__slideInDown'  style={{color:'#5bdb94',fontFamily:"dotedf"}}>Amal Prasad</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" style={{border: 'none'}} className='navcircle'>
         <div class="demo">
