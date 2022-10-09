@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/amal.prasad/static/css/main.fcb48a19.css",
-    "main.js": "/amal.prasad/static/js/main.06fb15f8.js",
+    "main.js": "/amal.prasad/static/js/main.da219f8a.js",
     "static/media/Datdot-K7prl.ttf": "/amal.prasad/static/media/Datdot-K7prl.7c3a99587331afe4bac2.ttf",
     "static/media/CutiveMono-Regular.ttf": "/amal.prasad/static/media/CutiveMono-Regular.0ca4da0b0a4342cac8d3.ttf",
     "static/media/physics.png": "/amal.prasad/static/media/physics.86c8d9eba03e29814d2a.png",
     "static/media/DESIGNER.otf": "/amal.prasad/static/media/DESIGNER.5bce54baf24bd63167e1.otf",
     "index.html": "/amal.prasad/index.html",
     "main.fcb48a19.css.map": "/amal.prasad/static/css/main.fcb48a19.css.map",
-    "main.06fb15f8.js.map": "/amal.prasad/static/js/main.06fb15f8.js.map"
+    "main.da219f8a.js.map": "/amal.prasad/static/js/main.da219f8a.js.map"
   },
   "entrypoints": [
     "static/css/main.fcb48a19.css",
-    "static/js/main.06fb15f8.js"
+    "static/js/main.da219f8a.js"
   ]
 }
