@@ -25,7 +25,7 @@ function NavBar() {
             <Nav.Link href="#Aboutme" className='navlinks text-light animate__animated animate__slideInDown' style={{fontFamily:"dotedf"}}>01.About me👨‍🦰</Nav.Link>
             <Nav.Link href="#projects" className='navlinks text-light animate__animated animate__slideInDown'style={{fontFamily:"dotedf"}}>02.Projects🌏</Nav.Link>
             <Nav.Link href="#Contact" className='navlinks text-light animate__animated animate__slideInDown' style={{fontFamily:"dotedf"}}>03.Contact me📩</Nav.Link>
-            <Nav.Link href="https://github.com/Liquid-Loop" className='navlinks text-light animate__animated animate__slideInDown' style={{fontFamily:"dotedf"}}>04.Open-source community👾</Nav.Link>
+            <Nav.Link href="https://github.com/Liquid-Loop" className='navlinks text-light animate__animated animate__slideInDown' style={{fontFamily:"dotedf"}}>04.Liquid Loop Codes👾</Nav.Link>
             <Nav.Link href="https://dev.to/amalprasad0" className='navlinks text-light animate__animated animate__slideInDown'style={{fontFamily:"dotedf"}}>05.Dev.to📝</Nav.Link>
 
           </Nav>
