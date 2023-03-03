@@ -21,16 +21,16 @@ function Tech() {
             <h1 id="headin2" className=' text-center '>MY--------Tools🪄</h1>
 
             <AnimationOnScroll animateIn="animate__slideInRight">
-            <h1 className='pl-0 mb-5 headi ' style={{letterSpacing:'20px',color:'#5bdb94'}}>Re<span style={{color:'antiquewhite'}}>a</span>ct</h1>
+            <h1 className='pl-0 mb-5 headi ' style={{letterSpacing:'20px',color:'#5bdb94'}}>Re<span style={{color:'antiquewhite'}}>a</span>ctJS</h1>
             </AnimationOnScroll>
             <AnimationOnScroll animateIn="animate__slideInRight">
-            <h1 className='ml-2 mb-5 headi' style={{letterSpacing:'20px',color:'antiquewhite'}}>Pyt<span style={{color:'#5bdb94'}}>h</span>on</h1>
+            <h1 className='ml-2 mb-5 headi' style={{letterSpacing:'20px',color:'antiquewhite'}}>Mongo<span style={{color:'#5bdb94'}}>D</span>B</h1>
             </AnimationOnScroll>
             <AnimationOnScroll animateIn="animate__slideInRight">
-            <h1 className='pl-3 mb-5 headi' style={{letterSpacing:'20px',color:'#5bdb94'}}>Git</h1>
+            <h1 className='pl-3 mb-5 headi' style={{letterSpacing:'20px',color:'#5bdb94'}}>NodeJS</h1>
             </AnimationOnScroll>
             <AnimationOnScroll animateIn="animate__slideInRight">
-            <h1 className='pl-3 mb-5 headi' style={{letterSpacing:'20px',color:'antiquewhite'}}><span style={{color:'#5bdb94'}}>N</span>odeJs</h1>
+            <h1 className='pl-3 mb-5 headi' style={{letterSpacing:'20px',color:'antiquewhite'}}><span style={{color:'#5bdb94'}}>Capacitor</span>JS</h1>
             </AnimationOnScroll>
             </Col >
             <AnimationOnScroll animateIn="animate__slideInRight" animateOut='animate__slideInLeft' delay={20}>
