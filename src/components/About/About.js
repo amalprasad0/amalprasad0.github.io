@@ -23,7 +23,7 @@ function About() {
               <Col sm={12} lg className='d-flex justify-content-center' style={{alignItems:'center'}}>
                       <AnimationOnScroll animateIn="animate__zoomIn">
                 {/* <img src="https://www.instagram.com/p/CbSfHRBJ4wbPeQhgg6ZOjSarMqM-oV3AMPOY2E0/" className="m-5 img-fluid"  style={{width:'2000px'}}alt="" /> */}
-                      <img src="https://media.licdn.com/dms/image/D5603AQE1ekc93TT02g/profile-displayphoto-shrink_800_800/0/1676804090679?e=2147483647&v=beta&t=YourjvHIW_RC0CM-OXD319POUY97rFQC1gA2GGOQSD0" className="Mt-5 ml-5 mb-5 d-flex justify-content-between myaboutimg animate__animated animate__bounce" alt="" />
+                      <img src="https://media.licdn.com/dms/image/D5603AQFBeVhF4bxMcw/profile-displayphoto-shrink_800_800/0/1692894641607?e=2147483647&v=beta&t=_QxuzObOQP1gzrYjv8iyZGcfyhkgy_6ULdSSKNXl8GE" className="Mt-5 ml-5 mb-5 d-flex justify-content-between myaboutimg animate__animated animate__bounce" alt="" />
                       </AnimationOnScroll>
               </Col>
               
