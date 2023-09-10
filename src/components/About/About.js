@@ -17,7 +17,7 @@ function About() {
               <Col lg sm={12} className="pl-5">
                   <h2 className='abouth' style={{fontFamily:"dotedf"}}><span style={{color:' #5bdb94',fontFamily:"dotedf"}}>01. </span>About---------------------</h2>
                   <p className='text-justify aboutp '><span style={{color:' #5bdb94',fontSize:'25px'}}>--      </span> Hello! I'm  <strong>Amal's Webpage👋,</strong>Meet Amal👥, the web wizard who spins digital silk and weaves virtual wonders. With a mouse as their trusty wand, they craft stunning websites and bring design dreams to life.<span> When not coding, you can find him exploring the depths of the internet, sampling strange new websites, and occasionally emerging from their lair to catch some vitamin D☀️ (and check that the real world still exists😁).</span></p>
-                  <p className="pb-5">Languages: <br/><br /> -> Python🐍 <br/> -> Javascript😀 <br />-> C ➰<br /></p>
+                  <p className="pb-5">Languages: <br/><br /> -> DART and JAVASCRIPT🐍 <br/> -> PYTHON and JAVA😀 <br />-> C-SHARP and C ➰<br /></p>
                </Col>
                
               <Col sm={12} lg className='d-flex justify-content-center' style={{alignItems:'center'}}>

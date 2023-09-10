@@ -46,12 +46,12 @@ function Section() {
                               {/* card3 */}
                               <div className="card">
                                 
-                                <h2>Resort Management System</h2>
-                                <p>Full Stack web-application for resort management.</p>
+                                <h2>UBER UI</h2>
+                                <p>UBER APP Clone Using React Native Cli and Expo</p>
                                 <div className="tool d-flex justify-content-start text-light pl-1" >
-                                    <p>PHP</p>
-                                    <p>BOOTSTRAP</p>
-                                    <p>MYSOL</p>
+                                    <p>React Native</p>
+                                    <p>EXPO CLI</p>
+                                    <p>Firebase</p>
                                     <a href="https://github.com/amalprasad0/Ocean-Era-Mini-Project-"><FontAwesomeIcon icon={faUpRightFromSquare} href="www.github.com" /></a>
                                 </div>
                                
@@ -61,11 +61,11 @@ function Section() {
                               {/* card4 */}
                               <div className="card">
                                
-                                <h2>E-commerce Website</h2>
-                                <p>A Nodejs project with mongoDB database</p>
+                                <h2>PICKMI APP</h2>
+                                <p>Taxi Booking App using React Native and Firebase</p>
                                 <div className="tool d-flex justify-content-start text-light pl-1" >
-                                    <p>NodeJs</p>
-                                    <p>MonogoDB</p>
+                                    <p>Google API</p>
+                                    <p>Firebase</p>
                                    
                                 
                                 </div>

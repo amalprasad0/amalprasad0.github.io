@@ -15,22 +15,22 @@ function Tech() {
     <Container>
         <Row>
             <Col className='content  text-light text-uppercase ' lg sm={6}>
-            <h1 id="headin" className=' text-center '>MY--------Tools🪄</h1>
+            {/* <h1 id="headin" className=' text-center '>MY--------Tools🪄</h1> */}
             </Col >
             <Col className='text-light tools'>
-            <h1 id="headin2" className=' text-center '>MY--------Tools🪄</h1>
+            {/* <h1 id="headin2" className=' text-center '>MY--------Tools🪄</h1> */}
 
             <AnimationOnScroll animateIn="animate__slideInRight">
-            <h1 className='pl-0 mb-5 headi ' style={{letterSpacing:'20px',color:'#5bdb94'}}>Re<span style={{color:'antiquewhite'}}>a</span>ctJS</h1>
+            <h1 className='pl-0 mb-5 headi ' style={{letterSpacing:'20px',color:'#5bdb94'}}>ASP.NET<span style={{color:'antiquewhite'}}>& MSQL</span></h1>
             </AnimationOnScroll>
             <AnimationOnScroll animateIn="animate__slideInRight">
-            <h1 className='ml-2 mb-5 headi' style={{letterSpacing:'20px',color:'antiquewhite'}}>Mongo<span style={{color:'#5bdb94'}}>D</span>B</h1>
+            <h1 className='ml-2 mb-5 headi' style={{letterSpacing:'20px',color:'antiquewhite'}}>REACT-<span style={{color:'#5bdb94'}}>Native</span></h1>
             </AnimationOnScroll>
             <AnimationOnScroll animateIn="animate__slideInRight">
-            <h1 className='pl-3 mb-5 headi' style={{letterSpacing:'20px',color:'#5bdb94'}}>NodeJS</h1>
+            <h1 className='pl-3 mb-5 headi' style={{letterSpacing:'20px',color:'#5bdb94'}}>MERN-STACK</h1>
             </AnimationOnScroll>
             <AnimationOnScroll animateIn="animate__slideInRight">
-            <h1 className='pl-3 mb-5 headi' style={{letterSpacing:'20px',color:'antiquewhite'}}><span style={{color:'#5bdb94'}}>Capacitor</span>JS</h1>
+            <h1 className='pl-3 mb-5 headi' style={{letterSpacing:'20px',color:'antiquewhite'}}><span style={{color:'#5bdb94'}}>FLUTTER</span></h1>
             </AnimationOnScroll>
             </Col >
             <AnimationOnScroll animateIn="animate__slideInRight" animateOut='animate__slideInLeft' delay={20}>

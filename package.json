@@ -2,8 +2,15 @@
   "name": "amalprasad",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://amalprasad0.github.io/amal.prasad",
+  "homepage": "http://amalprasad0.github.io/",
   "dependencies": {
+    "@capacitor/android": "5.3.0",
+    "@capacitor/app": "5.0.6",
+    "@capacitor/cli": "5.3.0",
+    "@capacitor/core": "5.3.0",
+    "@capacitor/haptics": "5.0.6",
+    "@capacitor/keyboard": "5.0.6",
+    "@capacitor/status-bar": "5.0.6",
     "@fortawesome/fontawesome-svg-core": "^6.2.0",
     "@fortawesome/free-solid-svg-icons": "^6.2.0",
     "@fortawesome/react-fontawesome": "^0.2.0",
@@ -28,8 +35,9 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
-    
+    "deploy": "gh-pages -d build",
+    "ionic:build": "npm run build",
+    "ionic:serve": "npm run start"
   },
   "eslintConfig": {
     "extends": [
