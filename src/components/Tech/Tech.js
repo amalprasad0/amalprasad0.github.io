@@ -21,13 +21,13 @@ function Tech() {
             {/* <h1 id="headin2" className=' text-center '>MY--------Tools🪄</h1> */}
 
             <AnimationOnScroll animateIn="animate__slideInRight">
-            <h1 className='pl-0 mb-5 headi ' style={{letterSpacing:'20px',color:'#5bdb94'}}>ASP.NET<span style={{color:'antiquewhite'}}>& MSQL</span></h1>
+            <h1 className='pl-0 mb-5 headi ' style={{letterSpacing:'20px',color:'#5bdb94'}}>.NET Web Services<span style={{color:'antiquewhite'}}></span></h1>
             </AnimationOnScroll>
             <AnimationOnScroll animateIn="animate__slideInRight">
             <h1 className='ml-2 mb-5 headi' style={{letterSpacing:'20px',color:'antiquewhite'}}>REACT-<span style={{color:'#5bdb94'}}>Native</span></h1>
             </AnimationOnScroll>
             <AnimationOnScroll animateIn="animate__slideInRight">
-            <h1 className='pl-3 mb-5 headi' style={{letterSpacing:'20px',color:'#5bdb94'}}>MERN-STACK</h1>
+            <h1 className='pl-3 mb-5 headi' style={{letterSpacing:'20px',color:'#5bdb94'}}>.NET MAUI</h1>
             </AnimationOnScroll>
             <AnimationOnScroll animateIn="animate__slideInRight">
             <h1 className='pl-3 mb-5 headi' style={{letterSpacing:'20px',color:'antiquewhite'}}><span style={{color:'#5bdb94'}}>FLUTTER</span></h1>

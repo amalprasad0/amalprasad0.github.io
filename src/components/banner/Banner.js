@@ -15,9 +15,9 @@ function Banner() {
                 <img src="https://em-content.zobj.net/source/microsoft-teams/337/man-technologist_1f468-200d-1f4bb.png" style={{marginTop: '-117px'}} alt="Amal Prasad" />
                 <h3 style={{color:'antiquewhite'}} className="animate__animated animate__fadeIn">Hi there 👋 i'm </h3>
                 <h1 className="animate__animated animate__fadeIn" style={{fontFamily:"dotedf"}}>Amal <span style={{color:'#5bdb94'}}>Prasad</span> </h1>
-                <h6 className="animate__animated animate__fadeIn"><span> MERN-Stack Developer</span> || Cross-Platform Developer || <span>Engineering Studennt</span></h6>
+                <h6 className="animate__animated animate__fadeIn"><span>Mobile App Developer</span> || Cross-Platform Developer || <span>Software Engineer</span></h6>
                 
-                <button  className='m-3 animate__animated animate__slideInUp'> <a href="https://drive.google.com/file/d/1YmQJQ_4nYqewkR2rMBe_VgpaYG9finco/view?usp=sharing" style={{textDecoration:"none",color:"antiquewhite"}}>Download Resume</a></button>
+                <button  className='m-3 animate__animated animate__slideInUp'> <a href="https://drive.google.com/file/d/1n6Yp31NUI6mCW3Y5zI2xRubM2Y01QIE_/view?usp=sharing" style={{textDecoration:"none",color:"antiquewhite"}}>Download Resume</a></button>
                 </div>
             </Col>
             {/* <Col lg sm={12} className='f2'>
