@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.652f8e53.css",
-    "main.js": "/static/js/main.9717e0db.js",
+    "main.js": "/static/js/main.bc3b050d.js",
     "static/media/Datdot-K7prl.ttf": "/static/media/Datdot-K7prl.7c3a99587331afe4bac2.ttf",
     "static/media/CutiveMono-Regular.ttf": "/static/media/CutiveMono-Regular.0ca4da0b0a4342cac8d3.ttf",
     "static/media/physics.png": "/static/media/physics.86c8d9eba03e29814d2a.png",
     "static/media/DESIGNER.otf": "/static/media/DESIGNER.5bce54baf24bd63167e1.otf",
     "index.html": "/index.html",
     "main.652f8e53.css.map": "/static/css/main.652f8e53.css.map",
-    "main.9717e0db.js.map": "/static/js/main.9717e0db.js.map"
+    "main.bc3b050d.js.map": "/static/js/main.bc3b050d.js.map"
   },
   "entrypoints": [
     "static/css/main.652f8e53.css",
-    "static/js/main.9717e0db.js"
+    "static/js/main.bc3b050d.js"
   ]
 }
