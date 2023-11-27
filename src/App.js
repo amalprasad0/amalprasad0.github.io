@@ -6,7 +6,7 @@ import Tech from './components/Tech/Tech';
 import Section from './components/Section/Section';
 import Contact from './components/Contact/Contact';
 import Footer from './components/Footer/Footer';
-import './app.css'
+import './App.css'
 function App() {
   return (
     <div className="App">
